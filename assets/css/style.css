@@ -80,19 +80,19 @@
 	border-bottom-color: #C0C0C0;
 
 }
-.fa {
-    padding: 20px;
-    font-size: 30px;
-    width: 20px;
-    text-align: center;
-    text-decoration: none;
+.iconSize {
+	height: 60px;
+	width: 60px;
 }
-.fa-linkedin {
+.gitHubIcon{
 	position: absolute;
-	left: 30px;
 	top: 60px;
-  	background: #007bb5;
-  	color: white;
+	left: 30px;
+}
+.linkedInIcon{
+	position: absolute;
+	top: 63px;
+	right: 30px;
 }
 .picture{
 	position: absolute;
