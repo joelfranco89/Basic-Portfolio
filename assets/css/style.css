@@ -1,0 +1,110 @@
+
+.header{
+	position: relative;
+	top: 0;
+	left: 0;
+	height: 200px;
+}
+.name{
+	color: white;
+	position: absolute;
+	margin: 0px;
+	bottom: 0px;
+	left: 100px;
+	padding: 30px;
+	font-size: 50px;
+	background-color: #20B2AA
+}
+.aboutLink{
+	color: #778899;
+	position: absolute;
+	padding: 20px;
+	margin: 0px;
+	bottom: 0px;
+	right:300px;
+}
+.portfolioLink{
+	color: #778899;
+	position: absolute;
+	padding: 20px;
+	margin: 0px;
+	bottom: 0px;
+	right:200px;
+}
+.contactLink{
+	color: #778899;
+	position: absolute;
+	padding: 20px;
+	margin: 0px;
+	bottom: 0px;
+	right:100px;
+}
+.body{
+	position: relative;
+	background-color: #C0C0C0;
+	height: 600px;
+}
+.aboutMeBox{
+	position: absolute;
+	top: 30px;
+	left: 90px;
+	height: 400px;
+	width: 600px;
+	background-color: white;
+}
+.aboutMe{
+	position: absolute;
+	left: 30px;
+	right: 30px;
+	padding-bottom: 20px;
+	color: #20B2AA;
+	border-bottom-style: solid;
+	border-bottom-color: #C0C0C0;
+}
+.connectWithMeBox{
+	position: absolute;
+	right: 100px;
+	top: 30px;
+	height: 150px;
+	width: 200px;
+	background-color: white;
+}
+.connectWithMe{
+	position: absolute;
+	left: 30px;
+	right: 30px;
+	color: #20B2AA;
+	font-size: 15px;
+	padding: 10px;
+	border-bottom-style: solid;
+	border-bottom-color: #C0C0C0;
+
+}
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 20px;
+    text-align: center;
+    text-decoration: none;
+}
+.fa-linkedin {
+	position: absolute;
+	left: 30px;
+	top: 60px;
+  	background: #007bb5;
+  	color: white;
+}
+.picture{
+	position: absolute;
+	top: 100px;
+	left: 30px;
+}
+.footer{
+	color: white;
+	text-align: center;
+	height: 100px;
+	width: 100%;
+	border-top-style: solid;
+	border-top-color: #20B2AA;
+	background-color: #708090;
+}
